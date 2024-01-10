@@ -7,12 +7,20 @@ import {
     Scripts,
 } from "@remix-run/react";
 import mainCss from "./styles/output.css";
-import type { LinksFunction } from "@remix-run/node";
+import type { LinksFunction, MetaFunction } from "@remix-run/node";
 import React from 'react';
 
 export const links: LinksFunction = () => {
     return [
         { rel: "stylesheet", href: mainCss },
+    ];
+};
+
+export const meta: MetaFunction = () => {
+    return [
+        { charset: "utf-8" },
+        { title: "ACME Care" },
+        { name: "viewport", content: "width=device-width,initial-scale=1" },
     ];
 };
 
