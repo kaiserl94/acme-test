@@ -4,7 +4,7 @@ node_modules
 *.deb
 *.tar.gz
 
-packages/remix-site/app/styles
+app/styles
 
 
 /.cache
