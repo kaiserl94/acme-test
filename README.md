@@ -6,10 +6,19 @@
 
 ---
 
+Clone this repo and create a branch off of `main` before starting. All of your changes should be on that branch. Once you are done, create a Pull Request (PR). This will signify to us that you are complete.
+
+
+
 before starting, run `npm install`.
 
 to run the development server, run `npm run develop`
 
+
+
+**NOTE: NPM is a prerequisite to run the project. Please ensure you are using at least node version 18.18.0***
+
+---
 
 ## Overview
 
@@ -19,7 +28,6 @@ In terms of React Components, you can find everything you'll need inside of `app
 
 - Feel free to make as many additional components as you feel necessary for your design. 
 - Organize them as you feel is best
-
 
 In terms of styling, you can extend off of the current styles in `styles/main.scss`
 
