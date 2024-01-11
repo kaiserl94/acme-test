@@ -6,7 +6,9 @@
 
 ---
 
-Clone this repo and create a branch off of `main` before starting. All of your changes should be on that branch. Once you are done, create a Pull Request (PR). This will signify to us that you are complete.
+The mockup provided `ACMECare.png` is located in the `TO_REDESIGN` folder.
+
+To get started, clone this repo and create a branch off of `main`. All of your changes should be on that branch. Once you are done, create a Pull Request (PR). This will signify to us that you are complete.
 
 
 
